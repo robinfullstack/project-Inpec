@@ -69,7 +69,7 @@
 				<!-- START navbar header-->
 				<div class="navbar-header">
 				<a href="{$_layoutParams.root}" class="navbar-brand">
-					<div class="brand-logo" ><img src="{$_layoutParams.ruta_principal}app/img/user/codef-color.png" alt="{$_layoutParams.configs.app_name}" style="width: 62%; margin-top: -3%;" />
+					<div class="brand-logo" ><img src="{$_layoutParams.ruta_principal}app/img/user/logo.png" alt="{$_layoutParams.configs.app_name}" style="width: 30%; margin-top: -3%;" />
 					</div>
 					<div class="brand-logo-collapsed">
 						<img src="{$_layoutParams.ruta_principal}app/img/user/codigo-efimero.png" alt="Código Efímero" class="img-thumbnail img-circle" >
@@ -94,7 +94,7 @@
 				<ul class="nav navbar-nav navbar-right">
 					<!-- START User menu-->
 					<li class="dropdown" >
-						<button type="button" class="btn btn-labeled btn-primary pull-right" onclick="location.href='{$_layoutParams.configs.url_web}'" style="background-color: #ff5e68; border-color: #d80650;margin-top: 7%; font-size: 15px;" >
+						<button type="button" class="btn btn-labeled btn-primary pull-right" onclick="location.href='{$_layoutParams.configs.url_web}'" style="background-color: #004964; border-color: #004964;margin-top: 7%; font-size: 15px;" >
 						<span class="btn-label"><i class="fa fa-plus-circle"></i>
 						</span>Ir a sitio web</button></li>
 					<li class="dropdown">

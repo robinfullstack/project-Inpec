@@ -150,7 +150,7 @@
 			{/foreach}
 			 <!-- END list group-->
 			 <!-- START panel footer-->
-			 <div class="panel-footer clearfix" data-toggle="modal" data-target="#agregarNota" class="pull-left" style="cursor: pointer; text-align: center; font-size: 20px; background-color: #ff5e68; border-color: #d80650; color: #fff">
+			 <div class="panel-footer clearfix" data-toggle="modal" data-target="#agregarNota" class="pull-left" style="cursor: pointer; text-align: center; font-size: 20px; background-color: #004964; border-color: #004964; color: #fff">
 				<small><i class="fa fa-plus-circle"></i> Agregar nueva Nota</small>
 			 </div>
 			 <!-- END panel-footer-->

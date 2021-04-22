@@ -500,7 +500,7 @@ body {
  ========================================================================== */
 .sidebar {
   width: 94%;
-  background: #ff5e68 linear-gradient(167deg, #d80650, #ff5e68 40rem);
+  background: #004964 linear-gradient(167deg, #3c545d, #053344 40rem);
   height: 100%;
   overflow-y: auto;
 }
