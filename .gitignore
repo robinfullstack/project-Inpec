@@ -1,0 +1,6 @@
+# Ignorar el contenido de las carpetas tmp y uploads
+tmp/
+uploads/
+application/Config.php
+error_log
+.htaccess

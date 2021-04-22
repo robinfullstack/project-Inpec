@@ -1,0 +1,27 @@
+#num_apartamento {
+    width: 200px;
+    height: 40px;
+    font-size: 20px;
+    border: solid 1px;
+    position: absolute;
+    margin-top: -4%;
+}
+
+#ver_factura{
+    position: absolute;
+    margin-top: -2%;
+    margin-left: 41%;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+@media (min-width: 992px) and (max-width: 1400px) {
+	button#factura_pendiente {
+		margin-left: 3% !important;
+	}
+
+	#num_apartamento {
+		margin-left: 11% !important;
+		margin-top: -2%;
+	}
+}
